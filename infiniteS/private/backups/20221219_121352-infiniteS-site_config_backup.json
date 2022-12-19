@@ -1,0 +1,8 @@
+{
+ "db_name": "_766c7fa8aafc5675",
+ "db_password": "MqUOVHmwHdR731H4",
+ "db_type": "mariadb",
+ "developer_mode": 1,
+ "maintenance_mode": 0,
+ "nginx_port": 83
+}
